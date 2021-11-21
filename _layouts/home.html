@@ -2,11 +2,21 @@
 layout: default
 ---
 <header>
+  <style>
+    .img-container {
+      text-align: center;
+    }
+  </style>
   <h1>{{ site.title }}</h1>
+  <div class="img-container"> <!-- Block parent element -->
+      <img src="IMG_4677.jpeg" alt="John Doe">
+  </div>
   {%-if site.theme_config.show_description-%}
     <p>{{ site.description }}</p>
   {%-endif-%}
 </header>
+
+
 
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
