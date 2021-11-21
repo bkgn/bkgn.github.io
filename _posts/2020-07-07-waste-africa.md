@@ -1,22 +1,13 @@
 ---
 layout: post
-category: example
+category: writing
 ---
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+# Waste Management in the Developing World
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+![Waste](https://images.unsplash.com/flagged/photo-1572213426852-0e4ed8f41ff6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80){:.ioda}
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
-
-## Lists
-
-Unordered:
+My master's program 
 
 - Fusce non velit cursus ligula mattis convallis vel at metus[^2].
 - Sed pharetra tellus massa, non elementum eros vulputate non.
