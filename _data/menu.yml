@@ -9,7 +9,7 @@ entries:
         url: https://www.linkedin.com/in/bkgn/
   - title: my studies
     entries:
-      - title: Urban Planning @ Technische Universität Berlin
+      - title: Urban Planning @ Technische Universität Berlin 
       - title: Urbanismo @ Uniersidad Nacional Autónoma de México
       - title: "Governing the large Metropolis" @ Sciences Po Urban School
   - title: skills
@@ -21,7 +21,7 @@ entries:
 
   - title: a selection of my work
     post_list:
-      limit: 
+      limit:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
