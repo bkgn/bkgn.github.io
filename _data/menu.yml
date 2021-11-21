@@ -8,10 +8,11 @@ entries:
       - title: you can see how i write, which topics interest me, and how i connect design, data and cartography from an urban perspective.
       - title: feel free to reach out to me!
       - url: https://www.linkedin.com/in/bkgn/
+
   - title: my studies
     entries:
       - title: Urban Planning @ Technische Universität Berlin (2016 – 2020)
-        url: https://https://www.tu.berlin/
+        url: https://www.tu.berlin/
       - title: Urbanismo @ Uniersidad Nacional Autónoma de México (2018 - 2019)
         url: https://arquitectura.unam.mx/
       - title: Governing the large Metropolis @ Sciences Po Urban School (2020 - 2021)
@@ -24,7 +25,7 @@ entries:
     post_list:
       limit:
       show_more: true
-      show_more_text: See archive...
+      show_more_text: See archive ...
       show_more_url: archive.html
 
   - title: rss
