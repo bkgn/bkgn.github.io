@@ -2,22 +2,20 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about me
-    entries:
-      - title: urban planner exploring the connections between design, data and cartography
-      - title: linkedin
-        url: https://www.linkedin.com/in/bkgn/
   - title: why this site?
     entries:
-      - title: this is my personal portfolio. i want to show you the different works i produced throughout my studies and work experiences. feel free to reach out to me!
+      - title: this is my personal portfolio.
+      - title: you can see how i write, which topics interest me, and how i connect design, data and cartography from an urban perspective.
+      - title: feel free to reach out to me!
+      - url: https://www.linkedin.com/in/bkgn/
   - title: my studies
     entries:
       - title: Urban Planning @ Technische Universität Berlin (2016 – 2020)
-        url: https://www.linkedin.com/in/bkgn/
+        url: https://https://www.tu.berlin/
       - title: Urbanismo @ Uniersidad Nacional Autónoma de México (2018 - 2019)
-        url: https://www.linkedin.com/in/bkgn/
+        url: https://arquitectura.unam.mx/
       - title: Governing the large Metropolis @ Sciences Po Urban School (2020 - 2021)
-        url: https://www.linkedin.com/in/bkgn/
+        url: https://www.sciencespo.fr/ecole-urbaine/en.html
   - title: skills
     entries:
       - title: GIS, urban planning, illustration, UX, and publishing
