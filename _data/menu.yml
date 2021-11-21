@@ -7,17 +7,20 @@ entries:
       - title: urban planner exploring the connections between design, data and cartography
       - title: linkedin
         url: https://www.linkedin.com/in/bkgn/
+  - title: why this site?
+    entries:
+      - title: this is my personal portfolio. i want to show you the different works i produced throughout my studies and work experiences. feel free to reach out to me!
   - title: my studies
     entries:
-      - title: Urban Planning @ Technische Universität Berlin
-      - title: Urbanismo @ Uniersidad Nacional Autónoma de México
-      - title: Governing the large Metropolis @ Sciences Po Urban School
+      - title: Urban Planning @ Technische Universität Berlin (2016 – 2020)
+        url: https://www.linkedin.com/in/bkgn/
+      - title: Urbanismo @ Uniersidad Nacional Autónoma de México (2018 - 2019)
+        url: https://www.linkedin.com/in/bkgn/
+      - title: Governing the large Metropolis @ Sciences Po Urban School (2020 - 2021)
+        url: https://www.linkedin.com/in/bkgn/
   - title: skills
     entries:
       - title: GIS, urban planning, illustration, UX, and publishing
-  - title: why this site?
-    entries:
-      - title: I want to showcase the different projects I have worked on. if you like what you see, please feel free to message me for collaborations!
 
   - title: a selection of my work
     post_list:
